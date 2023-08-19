@@ -8,4 +8,4 @@ it looks like it, and it actually says nothing,” Before & After magazine answe
 looks pretty real.”
 As Cicero would put it, “Um, not so fast.”
 The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, consectetur adipiscing elit”, looks 
-like latin because in its youth, centuries ago, it was Latin. elpepeelpepeelpepeelpepeelpepeelpepeelpepeelpepeelpepeelpepe
+like latin because in its youth, centuries ago, it was Latin.
